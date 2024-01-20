@@ -1,5 +1,8 @@
-`Publicaciones <https://iruelas.wordpress.com/publicaciones/>`_
-----------------------------------------------------------------
+---
+layout: default
+---
+
+### Publicaciones
 
 MARTÍN LUCAS, J.M. (2.019). `Breve reseña de incendios forestales en la Sierra de Iruelas <https://iruelas.wordpress.com/publicaciones/3473-2/>`_. Ed. Asociación Cultural “Puente Pasil”. El Tiemblo (Ávila). Diciembre del 2.019 Boletín nº24: Pág 15-18.
 
