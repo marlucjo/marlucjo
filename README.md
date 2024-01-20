@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://pbs.twimg.com/profile_images/378800000795058910/d611cb4aa977700fa86848cf0e27e004_400x400.jpeg" width="200"/>
+🔭 I’m currently working on ...
 
 <!--
 **marlucjo/marlucjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
