@@ -1,13 +1,8 @@
-#Theme
 remote_theme: pages-themes/architect@v0.2.0
-
-# Name of website
 title: marlucjo's Github site
-
-# Your name to show in the footer
-author: marlucjo
-
 description: A place to share my notes
+author: marlucjo
 show_downloads: false
+#google_analytics: [Your Google Analytics tracking ID]
 plugins:
   - jekyll-remote-theme
