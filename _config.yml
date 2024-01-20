@@ -26,6 +26,22 @@ navbar-links:
     - Mermaid API: "/pages/mermaidAPI"
   Author's home: "https://iruelas.wordpress.com"
 
+################
+# --- Logo --- #
+################
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+#avatar: "/assets/img/avatar-icon.png"
+avatar: "https://pbs.twimg.com/profile_images/378800000795058910/d611cb4aa977700fa86848cf0e27e004_400x400.jpeg"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
+
+# If you want to have an image logo in the top-left corner instead of having the title of the website,
+# then specify the following parameter
+# title-img: "/assets/img/avatar-icon.png"
+
 #####################################
 # --- Footer social media links --- #
 #####################################
