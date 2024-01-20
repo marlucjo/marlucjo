@@ -4,11 +4,11 @@ layout: default
 
 ### Publicaciones
 
-MARTÍN LUCAS, J.M. (2.019). `Breve reseña de incendios forestales en la Sierra de Iruelas <https://iruelas.wordpress.com/publicaciones/3473-2/>`_. Ed. Asociación Cultural “Puente Pasil”. El Tiemblo (Ávila). Diciembre del 2.019 Boletín nº24: Pág 15-18.
+MARTÍN LUCAS, J.M. (2.019). [Breve reseña de incendios forestales en la Sierra de Iruelas](https://iruelas.wordpress.com/publicaciones/3473-2/). Ed. Asociación Cultural “Puente Pasil”. El Tiemblo (Ávila). Diciembre del 2.019 Boletín nº24: Pág 15-18.
 
-MARTÍN LUCAS, J.M. (2.018). `Caracterización de las masas de cascalbo de la sierra de Iruelas <https://iruelas.wordpress.com/publicaciones/caracterizacion-de-las-masas-de-cascalbo-de-iruelas/>`_ . Ed. Asociación Cultural “Puente Pasil”. El Tiemblo (Ávila). Diciembre del 2.018 Boletín nº23.
+MARTÍN LUCAS, J.M. (2.018). [Caracterización de las masas de cascalbo de la sierra de Iruelas](https://iruelas.wordpress.com/publicaciones/caracterizacion-de-las-masas-de-cascalbo-de-iruelas/) . Ed. Asociación Cultural “Puente Pasil”. El Tiemblo (Ávila). Diciembre del 2.018 Boletín nº23.
 
-MARTÍN LUCAS, J.M. (2.017). `La Perra Gorda y otros manantiales <https://iruelas.wordpress.com/publicaciones/la-perra-gorda/>`_ . Ed. Asociación Cultural “Puente Pasil”. El Tiemblo (Ávila). Diciembre del 2.017 Boletín nº22.
+MARTÍN LUCAS, J.M. (2.017). [La Perra Gorda y otros manantiales]( https://iruelas.wordpress.com/publicaciones/la-perra-gorda/) . Ed. Asociación Cultural “Puente Pasil”. El Tiemblo (Ávila). Diciembre del 2.017 Boletín nº22.
  
 MARTÍN LUCAS, J.M. (2.016). `Los alixares de la sierra de Yruelas <https://iruelas.wordpress.com/publicaciones/los-alixares-de-la-sierra-de-yruelas/>`_ . Ed. Asociación Cultural “Puente Pasil”. El Tiemblo (Ávila). Diciembre del 2.016 Boletín nº21.
 
