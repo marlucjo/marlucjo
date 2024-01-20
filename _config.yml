@@ -1,11 +1,75 @@
-#theme: jekyll-theme-minimal
-#theme: jekyll-theme-slate
-#theme: jekyll-theme-midnight
-#theme: jekyll-theme-cayman
 remote_theme: pages-themes/architect@v0.2.0
-#plugins: jekyll-remote-theme
+
+############################
+# --- Required options --- #
+############################
+
+# Name of website
 title: marlucjo's Github site
-#logo: https://pbs.twimg.com/profile_images/378800000795058910/d611cb4aa977700fa86848cf0e27e004_400x400.jpeg  # /assets/img//logo.png
+
+# Your name to show in the footer
+author: marlucjo
+
 description: A place to share my notes
-google_analytics:
 show_downloads: false
+
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
+
+navbar-links:
+  About Me: "/pages/aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Mermaid: "https://jackgruber.github.io/2021-05-09-Embed-Mermaid-in-Jekyll-without-plugin/"
+    - Mermaid API: "/pages/mermaidAPI"
+  Author's home: "https://iruelas.wordpress.com"
+
+#####################################
+# --- Footer social media links --- #
+#####################################
+
+# Select the social network links that you want to show in the footer.
+# You can change the order that they show up on the page by changing the order here.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+#  email: "...."
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: marlucjo
+  github: marlucjo
+  twitter: marlucjo
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+#  medium: yourname
+#  reddit: yourname
+#  linkedin: daattali
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+#  mastodon: instance.url/@username
+#  bluesky: yourname
+#  ORCID: your ORCID ID
+#  google-scholar: your google scholar
+#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
+#  kaggle: yourname
+#  hackerrank: yourname
+#  gitlab: yourname
+
+# If you want your website to generate an RSS feed, provide a description
+# The URL for the feed will be https://<your_website>/feed.xml
+rss-description: This website is a virtual proof that I'm awesome
+
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap 
+  - jekyll-remote-theme
